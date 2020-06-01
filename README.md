@@ -8,4 +8,6 @@ football playgrounds application
      
 -----> doc.zip file
 
-    This is the HTML Java documentation of our application the main file that contain the documentation web page is **index.html** file.
+    This is the HTML Java documentation of our application.
+    This is an downloadable zip file.
+    The main file that contain the documentation web page is **index.html** file.
